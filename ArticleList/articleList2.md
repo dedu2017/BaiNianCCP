@@ -1,16 +1,16 @@
 # 共产党百年真相
 
-[![22](https://cloud.githubusercontent.com/assets/18081243/24938976/18a3cc92-1f00-11e7-94ec-a038b98491ae.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![22](https://cloud.githubusercontent.com/assets/18081243/24938976/18a3cc92-1f00-11e7-94ec-a038b98491ae.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/22.pdf)
 
-[![23](https://cloud.githubusercontent.com/assets/18081243/24938977/18badfb8-1f00-11e7-82ec-c65b35355112.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![23](https://cloud.githubusercontent.com/assets/18081243/24938977/18badfb8-1f00-11e7-82ec-c65b35355112.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/23.pdf)
 
-[![24](https://cloud.githubusercontent.com/assets/18081243/24938979/18bb8c4c-1f00-11e7-9092-7249b2d2c6f6.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![24](https://cloud.githubusercontent.com/assets/18081243/24938979/18bb8c4c-1f00-11e7-9092-7249b2d2c6f6.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/24.pdf)
 
-[![25](https://cloud.githubusercontent.com/assets/18081243/24938980/18bc24a4-1f00-11e7-886d-4f9f97894d99.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![25](https://cloud.githubusercontent.com/assets/18081243/24938980/18bc24a4-1f00-11e7-886d-4f9f97894d99.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/25.pdf)
 
-[![26](https://cloud.githubusercontent.com/assets/18081243/24938978/18bae954-1f00-11e7-8dfb-ca72e84fa7a1.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![26](https://cloud.githubusercontent.com/assets/18081243/24938978/18bae954-1f00-11e7-8dfb-ca72e84fa7a1.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/26.pdf)
 
-[![27](https://cloud.githubusercontent.com/assets/18081243/24938982/18c1b842-1f00-11e7-8af0-9d6804e495f9.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
+[![27](https://cloud.githubusercontent.com/assets/18081243/24938982/18c1b842-1f00-11e7-8af0-9d6804e495f9.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/27.pdf)
 
 [![28](https://cloud.githubusercontent.com/assets/18081243/24938981/18c0bf6e-1f00-11e7-8389-d861625b62bc.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/.pdf)
 
