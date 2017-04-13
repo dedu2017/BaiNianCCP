@@ -1,4 +1,4 @@
-#共产党百年真相
+# 共产党百年真相
 
 ![22](https://cloud.githubusercontent.com/assets/18081243/24938976/18a3cc92-1f00-11e7-94ec-a038b98491ae.png)
 
