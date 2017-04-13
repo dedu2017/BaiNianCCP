@@ -1,6 +1,6 @@
 # 共产党百年真相
 
-[![1](https://cloud.githubusercontent.com/assets/18081243/24590664/e9913732-17b6-11e7-8afb-11af762045a5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/1.pdf)
+[![1](https://cloud.githubusercontent.com/assets/18081243/24590664/e9913732-17b6-11e7-8afb-11af762045a5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/All/1.pdf)
 
 [![2](https://cloud.githubusercontent.com/assets/18081243/24590665/e9a37884-17b6-11e7-920e-37cca68f3c38.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/2.pdf)
 
