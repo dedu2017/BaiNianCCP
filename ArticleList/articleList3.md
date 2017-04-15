@@ -40,4 +40,4 @@
 
 [![62](https://cloud.githubusercontent.com/assets/20497750/24990486/08e9e93c-1fda-11e7-815a-c84fe0b51766.png)
 
-[![63](https://cloud.githubusercontent.com/assets/20497750/24990517/363a0192-1fda-11e7-816a-4ce7892380f6.png)
+[![63](https://cloud.githubusercontent.com/assets/20497750/24990517/363a0192-1fda-11e7-816a-4ce7892380f6.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/kzxy.pdf)
