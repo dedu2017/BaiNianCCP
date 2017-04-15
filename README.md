@@ -6,7 +6,7 @@
  * [【特稿】感情代替不了理智](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/gqdtbllz.pdf)
 
 
- ### ■ 最新文章
+ ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/18081243/24584445/e9cb8334-1733-11e7-861a-4e207eaa302c.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zjjj.pdf)
 
 | <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
