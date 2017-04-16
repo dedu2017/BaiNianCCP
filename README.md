@@ -1,5 +1,5 @@
 # 共产党百年真相
- <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgnc.pdf" target="_blank">![image](https://cloud.githubusercontent.com/assets/18081243/24583565/361c094a-1714-11e7-8001-44e30390b841.png)</a>
+ <a href="ttps://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/biaoti-0415.pdf" target="_blank">![image](https://cloud.githubusercontent.com/assets/20497750/25068840/1b60a396-2235-11e7-8a16-48b69cbb0917.png)</a>
 ### ■ 共产党百年真相：特稿
 * [《大纪元时报》特刊：共产党百年真相](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/Tekan_20170317.pdf)  
  * [【特稿】共产主义不是出路而是绝路](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/gczybscl.pdf)
@@ -7,7 +7,7 @@
 
 
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
-[![zxwz](https://cloud.githubusercontent.com/assets/18081243/24584445/e9cb8334-1733-11e7-861a-4e207eaa302c.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zjjj.pdf)
+[![zxwz](https://cloud.githubusercontent.com/assets/20497750/25068841/1b727a8a-2235-11e7-95a4-e7829cc79da5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zxwz-0415.pdf)
 
 | <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
 | :--------------- | :--------------- |
