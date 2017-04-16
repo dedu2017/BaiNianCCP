@@ -9,8 +9,9 @@
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/20497750/25068841/1b727a8a-2235-11e7-95a4-e7829cc79da5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zxwz-0415.pdf)
 
-| <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
+<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zftg.pdf" target="_blank">丁抒：执政初期的镇反与土改阳谋</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgzs.pdf" target="_blank">组图：文革中自杀的留美归国科学家</a>
 | :--------------- | :--------------- |
+| <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
 <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sb56.pdf" target="view_window">林辉：山本五十六座机被击落与中美合作所</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgqtmj2.pdf" target="_blank">苏共暴政下的群体灭绝（下）</a>
 <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/hwfqzgd.pdf" target="_blank">“美猴王”父亲钻狗洞 伯父被摧残致死</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/sgqtmj1.pdf" target="_blank">苏共暴政下的群体灭绝（上）</a>
 <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wgdzh1.pdf" target="_blank">王友琴：文革“斗争会”（上）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/ldzyzz.pdf" target="_blank">林辉：李大钊与其被中共批斗的长子</a>
@@ -19,7 +20,6 @@
  <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/llsjn.pdf" target="_blank">中共元老李立三一家的生死劫难</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/crkc2.pdf" target="_blank">广西文革中的吃人狂潮（中）</a>
  <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/fzkwg.pdf" target="_blank">中国漫画开拓者丰子恺的文革遭遇</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/mdhd.pdf" target="_blank">末代皇帝文革中连病带吓而死 族人被抄家</a>
 <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/crkc1.pdf" target="_blank">广西文革中的吃人狂潮（上）</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/fqml.pdf" target="_blank">林辉：放弃马列的陈独秀与其逃港的女儿</a>
-<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/kzxy.pdf" target="_blank">中共“批孔”和建孔子学院的闹剧</a>	 | 	<a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/fkxh.pdf" target="_blank">林辉：反抗中共的《星火》杂志与林昭之死</a>
 
  ### ■ 共产党杀人历史
  
