@@ -1,5 +1,5 @@
 # 共产党百年真相
- <a href="ttps://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/biaoti-0415.pdf" target="_blank">![image](https://cloud.githubusercontent.com/assets/20497750/25068840/1b60a396-2235-11e7-8a16-48b69cbb0917.png)</a>
+ <a href="https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/biaoti-0415.pdf" target="_blank">![image](https://cloud.githubusercontent.com/assets/20497750/25068840/1b60a396-2235-11e7-8a16-48b69cbb0917.png)</a>
 ### ■ 共产党百年真相：特稿
 * [《大纪元时报》特刊：共产党百年真相](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/Tekan_20170317.pdf)  
  * [【特稿】共产主义不是出路而是绝路](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/gczybscl.pdf)
