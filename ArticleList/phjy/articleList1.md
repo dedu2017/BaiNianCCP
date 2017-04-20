@@ -26,32 +26,32 @@
 
 [![14](https://cloud.githubusercontent.com/assets/20497750/25074306/87f37686-22bd-11e7-9db8-6ab2dd0f84bf.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/14.pdf)
 
-[![15](https://cloud.githubusercontent.com/assets/20497750/25112850/7527e972-23b9-11e7-91b3-12325bbd9f75.png)
+[![15](https://cloud.githubusercontent.com/assets/20497750/25112850/7527e972-23b9-11e7-91b3-12325bbd9f75.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/15.pdf)
 
-[![16](https://cloud.githubusercontent.com/assets/20497750/25112849/752769e8-23b9-11e7-9415-ba1c9aeee39d.png)
+[![16](https://cloud.githubusercontent.com/assets/20497750/25112849/752769e8-23b9-11e7-9415-ba1c9aeee39d.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/16.pdf)
 
-[![17](https://cloud.githubusercontent.com/assets/20497750/25112855/753f2ac4-23b9-11e7-8b03-65098de20ca4.png)
+[![17](https://cloud.githubusercontent.com/assets/20497750/25112855/753f2ac4-23b9-11e7-8b03-65098de20ca4.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/17.pdf)
 
-[![18](https://cloud.githubusercontent.com/assets/20497750/25112853/753d687e-23b9-11e7-86e2-89b58a7be349.png)
+[![18](https://cloud.githubusercontent.com/assets/20497750/25112853/753d687e-23b9-11e7-86e2-89b58a7be349.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/18.pdf)
 
-[![19](https://cloud.githubusercontent.com/assets/20497750/25112852/753c77f2-23b9-11e7-91bf-3ec92bff6de9.png)
+[![19](https://cloud.githubusercontent.com/assets/20497750/25112852/753c77f2-23b9-11e7-91bf-3ec92bff6de9.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/19.pdf)
 
-[![20](https://cloud.githubusercontent.com/assets/20497750/25112851/752c19e8-23b9-11e7-88f7-c6f371d7cef5.png)
+[![20](https://cloud.githubusercontent.com/assets/20497750/25112851/752c19e8-23b9-11e7-88f7-c6f371d7cef5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/20.pdf)
 
-[![21](https://cloud.githubusercontent.com/assets/20497750/25112856/7540cd3e-23b9-11e7-9968-61a1df22842e.png)
+[![21](https://cloud.githubusercontent.com/assets/20497750/25112856/7540cd3e-23b9-11e7-9968-61a1df22842e.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/21.pdf)
 
-[![22](https://cloud.githubusercontent.com/assets/20497750/25112854/753f4c48-23b9-11e7-996c-5bc3e91d5d4a.png)
+[![22](https://cloud.githubusercontent.com/assets/20497750/25112854/753f4c48-23b9-11e7-996c-5bc3e91d5d4a.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/22.pdf)
 
-[![23](https://cloud.githubusercontent.com/assets/20497750/25112857/75425ba4-23b9-11e7-84c1-0585463aae22.png)
+[![23](https://cloud.githubusercontent.com/assets/20497750/25112857/75425ba4-23b9-11e7-84c1-0585463aae22.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/23.pdf)
 
-[![24](https://cloud.githubusercontent.com/assets/20497750/25112858/7554a6d8-23b9-11e7-9cfa-1bb5947c0903.png)
+[![24](https://cloud.githubusercontent.com/assets/20497750/25112858/7554a6d8-23b9-11e7-9cfa-1bb5947c0903.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/24.pdf)
 
-[![25](https://cloud.githubusercontent.com/assets/20497750/25112859/75556ee2-23b9-11e7-9a7c-d79cc60dd5d5.png)
+[![25](https://cloud.githubusercontent.com/assets/20497750/25112859/75556ee2-23b9-11e7-9a7c-d79cc60dd5d5.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/25.pdf)
 
-[![26](https://cloud.githubusercontent.com/assets/20497750/25112872/84079762-23b9-11e7-9ea8-fbbf04ab96ac.png)
+[![26](https://cloud.githubusercontent.com/assets/20497750/25112872/84079762-23b9-11e7-9ea8-fbbf04ab96ac.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/26.pdf)
 
-[![27](https://cloud.githubusercontent.com/assets/20497750/25112873/842002de-23b9-11e7-8711-858a1cd80406.png)
+[![27](https://cloud.githubusercontent.com/assets/20497750/25112873/842002de-23b9-11e7-8711-858a1cd80406.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/27.pdf)
 
-[![28](https://cloud.githubusercontent.com/assets/20497750/25112860/756a9e5c-23b9-11e7-905f-acd5ef58c3a4.png)
+[![28](https://cloud.githubusercontent.com/assets/20497750/25112860/756a9e5c-23b9-11e7-905f-acd5ef58c3a4.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/28.pdf)
 
-[![29](https://cloud.githubusercontent.com/assets/20497750/25112861/756ba810-23b9-11e7-87c0-0970432b60f9.png)
+[![29](https://cloud.githubusercontent.com/assets/20497750/25112861/756ba810-23b9-11e7-87c0-0970432b60f9.png)](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/phjy/29.pdf)
