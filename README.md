@@ -33,7 +33,7 @@
  | --------------- | --------------- | --------------- | --------------- |
  | [中共“批孔”和建孔子学院的闹剧](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/kzxy.pdf) | [广西文革中骇人听闻的性暴力](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/hrtwxbl.pdf) | [砸碑毁林 刨坟曝尸 中共如何扫荡孔庙圣地](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/zbhl.pdf) | [魏谷：孔子、历史和中共（一）](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/kzlszg1.pdf) | 
  
- ### ■ 共产党迫害文化精英
+ ### ■ [共产党迫害文化精英](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/phjy/articleList1.md)
  
 | [<img src="https://cloud.githubusercontent.com/assets/18081243/24584568/3034fde8-1737-11e7-964d-849b7599f51d.jpg" width="300" height="123">](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/ldzyzz.pdf) | [<img src="https://cloud.githubusercontent.com/assets/18081243/24590366/655ddcfe-17b1-11e7-87cd-b9e29ea40462.jpg" width="300" height="123">](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/qjdzy.pdf) | [<img src="https://cloud.githubusercontent.com/assets/18081243/24590367/655f011a-17b1-11e7-94ff-6c6ffd3b97cf.jpg" width="300" height="123">](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/wzgyxfx.pdf) | [<img src="https://cloud.githubusercontent.com/assets/18081243/24590365/655d7674-17b1-11e7-92a6-1841f118c507.jpg" width="300" height="123">](https://d1uvgy0lcmmygf.cloudfront.net/pdf/bngcd/fzkwg.pdf) |
 | --------------- | --------------- | --------------- | --------------- |
