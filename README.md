@@ -9,8 +9,10 @@
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/20497750/25068841/1b727a8a-2235-11e7-95a4-e7829cc79da5.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0415.pdf)
 
-<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zftg.pdf" target="_blank">丁抒：执政初期的镇反与土改阳谋</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgzs.pdf" target="_blank">组图：文革中自杀的留美归国科学家</a>
+ <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fzkwg.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/mdhd.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a>
+<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/crkc1.pdf" target="_blank">“四清运动”内幕 毛泽东矛头指向刘少奇</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fqml.pdf" target="_blank">共产党与恐怖主义的渊源</a>
 | :--------------- | :--------------- |
+<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zftg.pdf" target="_blank">丁抒：执政初期的镇反与土改阳谋</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgzs.pdf" target="_blank">组图：文革中自杀的留美归国科学家</a>
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sb56.pdf" target="view_window">林辉：山本五十六座机被击落与中美合作所</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgqtmj2.pdf" target="_blank">苏共暴政下的群体灭绝（下）</a>
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hwfqzgd.pdf" target="_blank">“美猴王”父亲钻狗洞 伯父被摧残致死</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgqtmj1.pdf" target="_blank">苏共暴政下的群体灭绝（上）</a>
@@ -18,8 +20,7 @@
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/qjdzy.pdf" target="_blank">被枪决的1955年文科状元</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wzgyxfx.pdf" target="_blank">吴祖光与新凤霞——文艺伉俪的人生磨难</a>
  <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/djhhj.pdf" target="_blank">李宇明：大饥荒时期的红色画家</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/trtcrzs.pdf" target="_blank">林辉：同仁堂传人自杀 母亲和夫人被打死</a>
  <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/llsjn.pdf" target="_blank">中共元老李立三一家的生死劫难</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/crkc2.pdf" target="_blank">广西文革中的吃人狂潮（中）</a>
- <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fzkwg.pdf" target="_blank">中国漫画开拓者丰子恺的文革遭遇</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/mdhd.pdf" target="_blank">末代皇帝文革中连病带吓而死 族人被抄家</a>
-<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/crkc1.pdf" target="_blank">广西文革中的吃人狂潮（上）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fqml.pdf" target="_blank">林辉：放弃马列的陈独秀与其逃港的女儿</a>
+
 
  ### ■ 共产党杀人历史
  
