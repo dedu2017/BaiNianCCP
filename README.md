@@ -9,9 +9,9 @@
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/20497750/25068841/1b727a8a-2235-11e7-95a4-e7829cc79da5.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0415.pdf)
 
-| <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fzkwg.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/mdhd.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a> |
+| <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/cxbx.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgha.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a> |
 | :--------------- | :--------------- |
-| <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/crkc1.pdf" target="_blank">“四清运动”内幕 毛泽东矛头指向刘少奇</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fqml.pdf" target="_blank">共产党与恐怖主义的渊源</a> |
+| <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sqyd.pdf" target="_blank">“四清运动”内幕 毛泽东矛头指向刘少奇</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/gcyy.pdf" target="_blank">共产党与恐怖主义的渊源</a> |
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zftg.pdf" target="_blank">丁抒：执政初期的镇反与土改阳谋</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgzs.pdf" target="_blank">组图：文革中自杀的留美归国科学家</a>
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sb56.pdf" target="view_window">林辉：山本五十六座机被击落与中美合作所</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgqtmj2.pdf" target="_blank">苏共暴政下的群体灭绝（下）</a>
