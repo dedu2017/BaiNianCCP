@@ -7,7 +7,7 @@
 
 
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
-[![zxwz](https://cloud.githubusercontent.com/assets/20497750/25068841/1b727a8a-2235-11e7-95a4-e7829cc79da5.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0415.pdf)
+[![zxwz](https://cloud.githubusercontent.com/assets/20497750/26518172/5e8d8408-4270-11e7-88bf-b48799d6cace.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0526.pdf)
 
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/cxbx.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgha.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a> |
 | :--------------- | :--------------- |
