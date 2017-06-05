@@ -11,8 +11,10 @@
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/20497750/26518172/5e8d8408-4270-11e7-88bf-b48799d6cace.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0526.pdf)
 
+ <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/64ky.pdf" target="_blank">杨宁：六四屠杀后中共官方媒体人的抗议</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgsxs.pdf" target="_blank">让图片诉说中共嗜血史 巡回展车队抵洛杉矶</a>
+ | :--------------- | :--------------- |
+ <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/64ts.pdf" target="_blank">杨宁：六四屠杀时中共使用了开花弹</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fjz.pdf" target="_blank">冯义：《苦菜花》里的“汉奸”冯鉴之真相</a>
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/cxbx.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgha.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a> |
-| :--------------- | :--------------- |
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sqyd.pdf" target="_blank">“四清运动”内幕 毛泽东矛头指向刘少奇</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/gcyy.pdf" target="_blank">共产党与恐怖主义的渊源</a> |
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zftg.pdf" target="_blank">丁抒：执政初期的镇反与土改阳谋</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgzs.pdf" target="_blank">组图：文革中自杀的留美归国科学家</a>
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgdzh2.pdf" target="_blank">王友琴：文革“斗争会”（下）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgnc.pdf" target="_blank">苏共与德国纳粹的秘密协议</a> |
