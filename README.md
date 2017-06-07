@@ -11,8 +11,9 @@
  ### ■ [最新文章](https://github.com/xjy16/BaiNianCCP/blob/master/ArticleList/articleList1.md)
 [![zxwz](https://cloud.githubusercontent.com/assets/20497750/26518172/5e8d8408-4270-11e7-88bf-b48799d6cace.png)](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zxwz-0526.pdf)
 
- <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hxg.pdf" target="_blank">司马泰：昔日“红小鬼”与今日“娃娃兵”</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/yfbz.pdf" target="_blank">林辉：有多少人上了中共《约法八章》的当</a>
+ <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hayt.pdf" target="_blank">共产主义的黑暗源头（上）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/shajiang.pdf" target="_blank">西安事变 毛泽东周恩来企图杀蒋介石内幕（完整版）</a>
 | :--------------- | :--------------- |
+<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hxg.pdf" target="_blank">司马泰：昔日“红小鬼”与今日“娃娃兵”</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/yfbz.pdf" target="_blank">林辉：有多少人上了中共《约法八章》的当</a>
  <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/64ky.pdf" target="_blank">杨宁：六四屠杀后中共官方媒体人的抗议</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgsxs.pdf" target="_blank">让图片诉说中共嗜血史 巡回展车队抵洛杉矶</a>
  <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/64ts.pdf" target="_blank">杨宁：六四屠杀时中共使用了开花弹</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/fjz.pdf" target="_blank">冯义：《苦菜花》里的“汉奸”冯鉴之真相</a>
 | <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/cxbx.pdf" target="_blank">朝鲜共产政权七大暴行 让人毛骨悚然</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/zgha.pdf" target="_blank">刘晓：两相对比 中共“新社会”才是黑暗的</a> |
@@ -23,7 +24,7 @@
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hwfqzgd.pdf" target="_blank">“美猴王”父亲钻狗洞 伯父被摧残致死</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/sgqtmj1.pdf" target="_blank">苏共暴政下的群体灭绝（上）</a>
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wgdzh1.pdf" target="_blank">王友琴：文革“斗争会”（上）</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/ldzyzz.pdf" target="_blank">林辉：李大钊与其被中共批斗的长子</a>
 <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/qjdzy.pdf" target="_blank">被枪决的1955年文科状元</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/wzgyxfx.pdf" target="_blank">吴祖光与新凤霞——文艺伉俪的人生磨难</a>
- <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/djhhj.pdf" target="_blank">李宇明：大饥荒时期的红色画家</a>	 | 	<a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/trtcrzs.pdf" target="_blank">林辉：同仁堂传人自杀 母亲和夫人被打死</a>
+
 
 
 
