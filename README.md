@@ -1,6 +1,6 @@
 # 共产党百年真相
  <a href="https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/biaoti-0415.pdf" target="_blank">![image](https://cloud.githubusercontent.com/assets/20497750/25068840/1b60a396-2235-11e7-8a16-48b69cbb0917.png)</a>
-### ■ 共产党百年真相：特稿
+### ■ 共产党百年真相：:特稿
 * [【特稿】迫害法轮功遭报应实录](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/phdf.pdf)
 * [【特稿】海外附和中共捣乱者 面临各国调查](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/hwfh.pdf)
 * [《大纪元时报》特刊：共产党百年真相](https://github.com/xjy16/BaiNianCCP/blob/master/Article/Readme/Tekan_20170317.pdf)  
